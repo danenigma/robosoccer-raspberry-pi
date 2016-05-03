@@ -1,0 +1,2 @@
+ball_tracker:behavior:cv_camera:launcher:robot:sensors
+-DCATKIN_DEVEL_PREFIX=/home/pi/Desktop/myrobot/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/Desktop/myrobot/ros_ws/install -G Unix Makefiles

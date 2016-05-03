@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/robot.dir/src/robot.cpp.o  -o /home/pi/Desktop/myrobot/ros_ws/devel/lib/robot/robot -rdynamic /usr/local/lib/libwiringPi.so -Wl,-rpath,/usr/local/lib 

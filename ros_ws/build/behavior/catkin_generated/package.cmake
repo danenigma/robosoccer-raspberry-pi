@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "behavior")
+set(behavior_MAINTAINER "pi <pi@todo.todo>")
+set(behavior_DEPRECATED "")
+set(behavior_VERSION "0.0.0")
+set(behavior_BUILD_DEPENDS )
+set(behavior_RUN_DEPENDS )
+set(behavior_BUILDTOOL_DEPENDS "catkin")

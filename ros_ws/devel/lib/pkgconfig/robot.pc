@@ -1,0 +1,8 @@
+prefix=/home/pi/Desktop/myrobot/ros_ws/devel
+
+Name: robot
+Description: Description of robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/Desktop/myrobot/ros_ws/devel/lib 
+Requires: 
